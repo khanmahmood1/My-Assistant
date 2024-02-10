@@ -4,7 +4,7 @@
 
 ```diff
 
-+ You can contribute in this by adding your codes ,
++ You can contribute in this by adding your codes.
 @@ Just pull a request admin will approve it, Keep in mind code will be legit and it has it work with main source code @@
 ```
 ## Ways of contribution
