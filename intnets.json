@@ -1,1 +1,284 @@
 
+{
+ "intents" : [
+    
+    
+    
+    {
+        "tag" : "greeting",
+        "patterns" : [
+            "Hi",
+            "Hey",
+            "What's up?",
+            "Hey how are doing?",
+            "Hello",
+            "Chatbot",
+            "Hey Bot",
+            "Bot",
+            "Assistent",
+            "Hey Machine",
+            "Hello Machine",
+            "Hello Chatbot",
+            "Hello Bot",
+            "Hey Computer",
+            "Hello Computer"
+
+
+        ],
+        "responses" : [
+            "Hey sir!",
+            "What can I do for you?",
+            "Asslam Walaikum Mahmood Sir, What can I do for you☺",
+            "Have a good day",
+            "God Bless You MK",
+            "It's pleasure to meet you"
+        ]
+    },
+
+
+
+
+
+   {
+        "tag" : "mewing",
+        "patterns" : [
+            "What is mewing",
+            "Tell me about mewing",
+            "Who is mewing",
+            "What is mewing"
+        ],
+        "responses" :[
+            "Mewing: tongue posture technique for facial improvement, limited scientific support, consult a professional for personalized advice."
+        ]
+    },
+
+
+
+
+
+    {
+        "tag": "name",
+        "patterns" : [
+            "what is your name?",
+            "What should I call you?"
+        ],
+        "responses" :[
+            "My name is Khan Mahmood☺"
+        ]
+    },
+
+
+
+
+
+    {
+        "tag": "file",
+        "patterns":[
+            "craete a file",
+            "create new file"
+        ],
+        "responses":[]
+    },
+
+
+
+
+
+    {
+        "tag": "internship",
+        "patterns":[
+            "where I am doing internship?",
+            "In which organization are you currently interning?",           
+            "What is the name of the company where you're currently gaining internship experience?",
+            "Could you share the name of the company where you are completing your internship?",
+            "In what company are you currently engaged in your internship?",
+            "Which organization are you interning with at the moment?",
+            "What's the name of the company that you've chosen for your internship?",
+            "Could you let me know where you're currently interning?",
+            "Where specifically have you chosen to pursue your internship?",
+            "In which company are doing internship?"
+        ],
+        "responses":[
+            "Currently I am in Oasis Infobyte Company"
+        ]
+    },
+
+
+
+
+    {
+        "tag": "weather",
+        "patterns": [
+          "What's the weather like today?",
+          "Tell me the current weather",
+          "How's the weather?"
+        ],
+        "responses": [
+          "I'm sorry, I don't have real-time weather information. You might want to check a reliable weather website or app for the current conditions."
+        ]
+      },
+
+
+
+
+
+
+
+      {
+        "tag": "time",
+        "patterns": [
+          "What time is it?",
+          "Can you tell me the time?"
+        ],
+        "responses": [
+          "Certainly! It's time for you to shine and make the most of the present moment."
+        ]
+      },
+
+
+
+
+
+
+      {
+        "tag": "joke",
+        "patterns": [
+          "Tell me a joke",
+          "Share a joke",
+          "Make me laugh"
+        ],
+        "responses": [
+          "Sure, here's a joke for you: Why don't scientists trust atoms? Because they make up everything!"
+        ]
+      },
+
+
+
+
+
+
+      {
+        "tag": "help",
+        "patterns": [
+          "Help me",
+          "I need assistance",
+          "Can you help?"
+        ],
+        "responses": [
+          "Of course! I'm here to help. What do you need assistance with?"
+        ]
+      },
+
+
+
+
+
+
+      {
+        "tag": "tech_news",
+        "patterns": [
+          "Any tech news?",
+          "Tell me the latest in technology"
+        ],
+        "responses": [
+          "I'm not up-to-date on the latest tech news, but you can visit popular tech news websites like TechCrunch or The Verge for the latest updates."
+        ]
+      },
+
+
+
+
+
+
+
+      {
+        "tag": "recommendation",
+        "patterns": [
+          "Can you recommend a book?",
+          "Recommend a movie",
+          "What should I watch?"
+        ],
+        "responses": [
+          "Certainly! If you enjoy fiction, I recommend 'The Hitchhiker's Guide to the Galaxy' by Douglas Adams. It's a humorous and adventurous classic."
+        ]
+      },
+
+
+
+
+
+
+      {
+        "tag": "learning",
+        "patterns": [
+          "Teach me something new",
+          "What's an interesting fact?",
+          "Learn something"
+        ],
+        "responses": [
+          "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!"
+        ]
+      },
+
+
+
+
+
+
+
+      {
+        "tag": "travel",
+        "patterns": [
+          "Recommend a travel destination",
+          "Tell me about popular tourist spots"
+        ],
+        "responses": [
+          "If you love nature, consider visiting Banff National Park in Canada. It's known for its stunning mountain scenery and crystal-clear lakes."
+        ]
+      },
+
+
+
+
+
+
+      {
+        "tag": "health_tips",
+        "patterns": [
+          "Give me health tips",
+          "How to stay healthy?",
+          "Share a fitness tip"
+        ],
+        "responses": [
+          "A simple health tip is to stay hydrated. Drinking enough water is essential for overall well-being and can have positive effects on your skin, digestion, and energy levels."
+        ]
+      },
+
+
+
+
+
+
+      {
+        "tag": "music",
+        "patterns": [
+          "Play some music",
+          "Recommend a song",
+          "What's your favorite music?"
+        ],
+        "responses": [
+          "I don't have the ability to play music, but one timeless song you might enjoy is 'Bohemian Rhapsody' by Queen. It's a musical masterpiece!"
+        ]
+      }
+
+
+
+
+
+
+
+
+
+ ]
+}
+
