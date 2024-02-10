@@ -11,7 +11,7 @@
 
 ***Create a fork and work on that independently or Create a sub-branch and after that work on that*** <br>
 ***Both have their pros and cons you search about that on google or in GitHub Documetation***
-***You can clone the project into your local IDE, first locate the directory where you want to store the project using "cd" command then after use "git clone" (repo link) " command***
+***You can clone the project into your local IDE, first locate the directory where you want to store the project using "cd" command then after use "git clone (repo link)" command***
 
 
 ### Thank You
