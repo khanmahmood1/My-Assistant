@@ -9,5 +9,5 @@
 ```
 ## Ways of contribution
 
-***Create a fork and work ont that independently***
-***Create a sub-branch and after that work on that***
+***Create a fork and work on that independently or Create a sub-branch and after that work on that*** <br>
+***Both have their pros and cons you search about that on google or in GitHub Documetation***
