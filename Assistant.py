@@ -1,3 +1,4 @@
+
 import sys
 import threading
 import tkinter as tk
@@ -46,7 +47,6 @@ class Assistant:
 
                     text = self.recognizer.recognize_google(audio)
                     text = text.lower()
-
                     if "hey jake" in text:
                         self.label.config(fg="red")
                         audio = self.recognizer.listen(mic)
@@ -73,3 +73,5 @@ class Assistant:
 
          
 Assistant()
+
+#IF YOU GOT ANY ERROR CONTACT ME 
